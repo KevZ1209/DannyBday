@@ -1,0 +1,32 @@
+body {
+    font-family: Arial;
+    background-color: #0002A1;
+}
+
+.bday-box {
+    margin-top: 150px;
+}
+
+h1 {
+    color: white;
+    opacity: 0;
+    text-align: center;
+    position: relative;
+    left: 1000px;
+}
+
+p {
+    color: white;
+    text-align: center;
+    position: relative;
+    top: 1000px;
+    opacity: 0.3;
+}
+
+p {
+    color: white;
+    text-align: center;
+    position: relative;
+    top: 1000px;
+    opacity: 0.3;
+}
